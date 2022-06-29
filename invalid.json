@@ -1,0 +1,491 @@
+[{
+    "short": "BANANA",
+    "name": "Banana",
+    "contract": "0x94e496474f1725f1c1824cb5bdb92d7691a4f03a",
+    "image": ""
+}, {
+    "short": "DMND",
+    "name": "DiamondDAO",
+    "contract": "0x144e3b02e08e644ffbb7ff652763f5b72ee22701",
+    "image": ""
+}, {
+    "short": "ECO",
+    "name": "Ecofi",
+    "contract": "0xc242eb8e4e27eae6a2a728a41201152f19595c83",
+    "image": ""
+}, {
+    "short": "ERSDL",
+    "name": "unFederalReserve",
+    "contract": "0x5218e472cfcfe0b64a064f055b43b4cdc9efd3a6",
+    "image": ""
+}, {
+    "short": "ETHM",
+    "name": "Ethereum Meta",
+    "contract": "0xfd957f21bd95e723645c07c48a2d8acb8ffb3794",
+    "image": ""
+}, {
+    "short": "EVN",
+    "name": "Evolution Finance",
+    "contract": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+    "image": ""
+}, {
+    "short": "FLEX",
+    "name": "Flex Coin",
+    "contract": "0xfcf8eda095e37a41e002e266daad7efc1579bc0a",
+    "image": ""
+}, {
+    "short": "FLUFFY",
+    "name": "Fluffy Inu",
+    "contract": "0xde74bb5a16000deea9eb26ef3941344325dbdb8c",
+    "image": ""
+}, {
+    "short": "FOLD",
+    "name": "Manifold Finance",
+    "contract": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
+    "image": ""
+}, {
+    "short": "FRIES",
+    "name": "friesDAO",
+    "contract": "0xfa57f00d948bb6a28072f5416fcbf7836c3d62dd",
+    "image": ""
+}, {
+    "short": "FUSE",
+    "name": "Fuse",
+    "contract": "0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d",
+    "image": ""
+}, {
+    "short": "FXS",
+    "name": "Frax Share",
+    "contract": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+    "image": ""
+}, {
+    "short": "GAS",
+    "name": "Gas DAO",
+    "contract": "0x6bba316c48b49bd1eac44573c5c871ff02958469",
+    "image": ""
+}, {
+    "short": "GDAO",
+    "name": "Governor DAO",
+    "contract": "0x515d7e9d75e2b76db60f8a051cd890eba23286bc",
+    "image": ""
+}, {
+    "short": "GDT",
+    "name": "Global Derivative Exchange",
+    "contract": "0xc67b12049c2d0cf6e476bc64c7f82fc6c63cffc5",
+    "image": ""
+}, {
+    "short": "GHST",
+    "name": "Aavegotchi",
+    "contract": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "image": ""
+}, {
+    "short": "GLCH",
+    "name": "Glitch Protocol",
+    "contract": "0x038a68ff68c393373ec894015816e33ad41bd564",
+    "image": ""
+}, {
+    "short": "HAPPY",
+    "name": "HappyFans",
+    "contract": "0x3079f61704e9efa2bcf1db412f735d8d4cfa26f4",
+    "image": ""
+}, {
+    "short": "HBTC",
+    "name": "Hubby BTC",
+    "contract": "0x0316eb71485b0ab14103307bf65a021042c6d380",
+    "image": ""
+}, {
+    "short": "HONEYD",
+    "name": "Honey Deluxe",
+    "contract": "0x40615b82999b8aa46803f11493bedab0314eb5e7",
+    "image": ""
+}, {
+    "short": "HOT",
+    "name": "Holo",
+    "contract": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2",
+    "image": ""
+}, {
+    "short": "ICE",
+    "name": "Popsicle Finance",
+    "contract": "0xf16e81dce15b08f326220742020379b855b87df9",
+    "image": ""
+}, {
+    "short": "ICHI",
+    "name": "Ichi",
+    "contract": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+    "image": ""
+}, {
+    "short": "IMX",
+    "name": "Immutable X",
+    "contract": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff",
+    "image": ""
+}, {
+    "short": "KEX",
+    "name": "KIRA Network",
+    "contract": "0x16980b3b4a3f9d89e33311b5aa8f80303e5ca4f8",
+    "image": ""
+}, {
+    "short": "KONGTAMA",
+    "name": "Kongtama",
+    "contract": "0x69e58172575de6ff336adb116a820b2d9a347a32",
+    "image": ""
+}, {
+    "short": "KONGZ20",
+    "name": "CYBERKONGZ",
+    "contract": "0x9d59eba4deaee09466ba9d4073bf912bc72982b0",
+    "image": ""
+}, {
+    "short": "KROM",
+    "name": "Kromatika",
+    "contract": "0x3af33bef05c2dcb3c7288b77fe1c8d2aeba4d789",
+    "image": ""
+}, {
+    "short": "LATX",
+    "name": "LatiumX",
+    "contract": "0x2f85e502a988af76f7ee6d83b7db8d6c0a823bf9",
+    "image": ""
+}, {
+    "short": "LBY",
+    "name": "Lobby",
+    "contract": "0xac042d9284df95cc6bd35982f6a61e3e7a6f875b",
+    "image": ""
+}, {
+    "short": "LGCY",
+    "name": "LGCY Network",
+    "contract": "0xae697f994fc5ebc000f8e22ebffee04612f98a0d",
+    "image": ""
+}, {
+    "short": "LOOT",
+    "name": "LootBox.io",
+    "contract": "0x7b3d36eb606f873a75a6ab68f8c999848b04f935",
+    "image": ""
+}, {
+    "short": "LRC",
+    "name": "Loopring",
+    "contract": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "image": ""
+}, {
+    "short": "LUFFY",
+    "name": "Luffy",
+    "contract": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
+    "image": ""
+}, {
+    "short": "MAGIC",
+    "name": "Magic",
+    "contract": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+    "image": ""
+}, {
+    "short": "MARVIN",
+    "name": "Marvin Inu",
+    "contract": "0x48515e2baee5283e3b7cdc624f3c63caef13140a",
+    "image": ""
+}, {
+    "short": "MARVIN",
+    "name": "Marvin Inu",
+    "contract": "0xcaa9ed6d7502595b555113d4517668ae24038c8a",
+    "image": ""
+}, {
+    "short": "MCC",
+    "name": "Multi-Chain Capital",
+    "contract": "0xc146b7cdbaff065090077151d391f4c96aa09e0c",
+    "image": ""
+}, {
+    "short": "MLT",
+    "name": "Media Licensing",
+    "contract": "0x9506d37f70eb4c3d79c398d326c871abbf10521d",
+    "image": ""
+}, {
+    "short": "MSHARE",
+    "name": "Meerkat Shares",
+    "contract": "0xf8b9facb7b4410f5703eb29093302f2933d6e1aa",
+    "image": ""
+}, {
+    "short": "N2",
+    "name": "Node Squared",
+    "contract": "0x6110c64219621ce5b02fb8e8e57b54c01b83bf85",
+    "image": ""
+}, {
+    "short": "NEWINU",
+    "name": "New Inn",
+    "contract": "0x1997830b5beb723f5089bb8fc38766d419a0444d",
+    "image": ""
+}, {
+    "short": "NEXO",
+    "name": "Nexo",
+    "contract": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206",
+    "image": ""
+}, {
+    "short": "NXM",
+    "name": "Nexus Mutual",
+    "contract": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b",
+    "image": ""
+}, {
+    "short": "OM",
+    "name": "MANTRA DAO",
+    "contract": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d",
+    "image": ""
+}, {
+    "short": "OMI",
+    "name": "Ecomi",
+    "contract": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "image": ""
+}, {
+    "short": "PAD",
+    "name": "NearPad",
+    "contract": "0xea7cc765ebc94c4805e3bff28d7e4ae48d06468a",
+    "image": ""
+}, {
+    "short": "PAD",
+    "name": "SmartPad (OLD)",
+    "contract": "0x5067006f830224960fb419d7f25a3a53e9919bb0",
+    "image": ""
+}, {
+    "short": "PAD",
+    "name": "SmartPad",
+    "contract": "0x34f291934b88c7870b7a17835b926b264fc13a81",
+    "image": ""
+}, {
+    "short": "PAXG",
+    "name": "PAX Gold",
+    "contract": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+    "image": ""
+}, {
+    "short": "PBR",
+    "name": "PolkaBridge",
+    "contract": "0x298d492e8c1d909d3f63bc4a36c66c64acb3d695",
+    "image": ""
+}, {
+    "short": "PEOPLE",
+    "name": "Constitution DAO",
+    "contract": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+    "image": ""
+}, {
+    "short": "PHONON ",
+    "name": "Phonon DAO",
+    "contract": "0x758b4684be769e92eefea93f60dda0181ea303ec",
+    "image": ""
+}, {
+    "short": "PKF",
+    "name": "PolkaFoundry",
+    "contract": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+    "image": ""
+}, {
+    "short": "PLSD",
+    "name": "PulseDogeCoin",
+    "contract": "0x34f0915a5f15a66eba86f6a58be1a471fb7836a7",
+    "image": ""
+}, {
+    "short": "PLU",
+    "name": "Pluton",
+    "contract": "0xd8912c10681d8b21fd3742244f44658dba12264e",
+    "image": ""
+}, {
+    "short": "PLY",
+    "name": "Aurigami",
+    "contract": "0x1ab43204a195a0fd37edec621482afd3792ef90b",
+    "image": ""
+}, {
+    "short": "QUARTZ",
+    "name": "Sandclock",
+    "contract": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+    "image": ""
+}, {
+    "short": "RPL",
+    "name": "Rocket pool",
+    "contract": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+    "image": ""
+}, {
+    "short": "RSS3",
+    "name": "RSS3",
+    "contract": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+    "image": ""
+}, {
+    "short": "SENATE",
+    "name": "SENATE",
+    "contract": "0x34be5b8c30ee4fde069dc878989686abe9884470",
+    "image": ""
+}, {
+    "short": "SHINJA",
+    "name": "Shibnobi",
+    "contract": "0xab167e816e4d76089119900e941befdfa37d6b32",
+    "image": ""
+}, {
+    "short": "SHIRYO-INU",
+    "name": "Shiryo",
+    "contract": "0x1e2f15302b90edde696593607b6bd444b64e8f02",
+    "image": ""
+}, {
+    "short": "SHKOOBY",
+    "name": "SHKOOBY INU",
+    "contract": "0x29a5c1db7321c5c9eae57f9366ee8eef00ca11fb",
+    "image": ""
+}, {
+    "short": "SHR",
+    "name": "Share",
+    "contract": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+    "image": ""
+}, {
+    "short": "SIDUS",
+    "name": "Sidus",
+    "contract": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
+    "image": ""
+}, {
+    "short": "SJA",
+    "name": "Saja",
+    "contract": "0x646a764b4afca56002956b7157cdcbe98b91bee1",
+    "image": ""
+}, {
+    "short": "SLP",
+    "name": "Smooth Love Potion",
+    "contract": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25",
+    "image": ""
+}, {
+    "short": "SOS",
+    "name": "OpenDao",
+    "contract": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+    "image": ""
+}, {
+    "short": "SPA",
+    "name": "Sperax",
+    "contract": "0xb4a3b0faf0ab53df58001804dda5bfc6a3d59008",
+    "image": ""
+}, {
+    "short": "SPELL",
+    "name": "Spell Token",
+    "contract": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+    "image": ""
+}, {
+    "short": "SPI",
+    "name": "shopping.io",
+    "contract": "0x9b02dd390a603add5c07f9fd9175b7dabe8d63b7",
+    "image": ""
+}, {
+    "short": "SPICE",
+    "name": "Spice",
+    "contract": "0x1fdab294eda5112b7d066ed8f2e4e562d5bcc664",
+    "image": ""
+}, {
+    "short": "SQUID",
+    "name": "SquidDAO",
+    "contract": "0x21ad647b8f4fe333212e735bfc1f36b4941e6ad2",
+    "image": ""
+}, {
+    "short": "SRK",
+    "name": "SparkPoint",
+    "contract": "0x0488401c3f535193fa8df029d9ffe615a06e74e6",
+    "image": ""
+}, {
+    "short": "STARL",
+    "name": "StarLink",
+    "contract": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+    "image": ""
+}, {
+    "short": "STG",
+    "name": "Stargate Finance",
+    "contract": "0xaf5191b0de278c7286d6c7cc6ab6bb8a73ba2cd6",
+    "image": ""
+}, {
+    "short": "SYNR",
+    "name": "MOBLAND",
+    "contract": "0xbc6e06778708177a18210181b073da747c88490a",
+    "image": ""
+}, {
+    "short": "TKX",
+    "name": "Tokenise Xchange",
+    "contract": "0x667102bd3413bfeaa3dffb48fa8288819e480a88",
+    "image": ""
+}, {
+    "short": "TUSD",
+    "name": "True usd",
+    "contract": "0x0000000000085d4780b73119b644ae5ecd22b376",
+    "image": ""
+}, {
+    "short": "UFO",
+    "name": "UFO Gaming",
+    "contract": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+    "image": ""
+}, {
+    "short": "UPI",
+    "name": "Pawtocol",
+    "contract": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
+    "image": ""
+}, {
+    "short": "USDN",
+    "name": "Neutrino USD",
+    "contract": "0x674c6ad92fd080e4004b2312b45f796a192d27a0",
+    "image": ""
+}, {
+    "short": "USHIBA",
+    "name": "American Shiba",
+    "contract": "0xb893a8049f250b57efa8c62d51527a22404d7c9a",
+    "image": ""
+}, {
+    "short": "VADER",
+    "name": "Vader Protocol",
+    "contract": "0x2602278ee1882889b946eb11dc0e810075650983",
+    "image": ""
+}, {
+    "short": "VOLT",
+    "name": "Volt Protocol",
+    "contract": "0x559ebc30b0e58a45cc9ff573f77ef1e5eb1b3e18",
+    "image": ""
+}, {
+    "short": "VPAD",
+    "name": "VLaunch",
+    "contract": "0x51fe2e572e97bfeb1d719809d743ec2675924edc",
+    "image": ""
+}, {
+    "short": "VPP",
+    "name": "Virtual Player Points",
+    "contract": "0x5eeaa2dcb23056f4e8654a349e57ebe5e76b5e6e",
+    "image": ""
+}, {
+    "short": "VRA",
+    "name": "Veracity",
+    "contract": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "image": ""
+}, {
+    "short": "WAVES",
+    "name": "Waves",
+    "contract": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+    "image": ""
+}, {
+    "short": "X2Y2",
+    "name": "X2Y2",
+    "contract": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9",
+    "image": ""
+}, {
+    "short": "XCN",
+    "name": "Chain",
+    "contract": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+    "image": ""
+}, {
+    "short": "XMON",
+    "name": "XMON",
+    "contract": "0x3aada3e213abf8529606924d8d1c55cbdc70bf74",
+    "image": ""
+}, {
+    "short": "XYO",
+    "name": "XYO Network",
+    "contract": "0x55296f69f40ea6d20e478533c15a6b08b654e758",
+    "image": ""
+}, {
+    "short": "YUP",
+    "name": "Yup",
+    "contract": "0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc",
+    "image": ""
+}, {
+    "short": "ZAP",
+    "name": "Zap",
+    "contract": "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104",
+    "image": ""
+}, {
+    "short": "ZEFU",
+    "name": "Zenfuse",
+    "contract": "0xb1e9157c2fdcc5a856c8da8b2d89b6c32b3c1229",
+    "image": ""
+}, {
+    "short": "ZKP",
+    "name": "Panther Protocol",
+    "contract": "0x909e34d3f6124c324ac83dcca84b74398a6fa173",
+    "image": ""
+}]

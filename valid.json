@@ -1,0 +1,711 @@
+[{
+    "short": "1INCH",
+    "name": "1 inch",
+    "contract": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "image": "https://cryptologos.cc/logos/1inch-1inch-logo.svg"
+}, {
+    "short": "AAVE",
+    "name": "Aave",
+    "contract": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+    "image": "https://cryptologos.cc/logos/aave-aave-logo.svg"
+}, {
+    "short": "ACE",
+    "name": "Acent",
+    "contract": "0xec5483804e637d45cde22fa0869656b64b5ab1ab",
+    "image": "https://www.marketbeat.com/logos/cryptocurrencies/ace1.png"
+}, {
+    "short": "ADB",
+    "name": "Adbank",
+    "contract": "0x2baac9330cf9ac479d819195794d79ad0c7616e3",
+    "image": "https://www.cryptofonts.com/img/icons/adb.svg"
+}, {
+    "short": "AE",
+    "name": "Aeternity",
+    "contract": "0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d",
+    "image": "https://www.cryptofonts.com/img/icons/ae.svg"
+}, {
+    "short": "AGIX",
+    "name": "SingularityNET",
+    "contract": "0x5b7533812759b45c2b44c19e320ba2cd2681b542",
+    "image": "https://www.cryptofonts.com/img/icons/agi.svg"
+}, {
+    "short": "AKRO",
+    "name": "Akropolis",
+    "contract": "0x8ab7404063ec4dbcfd4598215992dc3f8ec853d7",
+    "image": "https://www.cryptofonts.com/img/icons/akro.svg"
+}, {
+    "short": "ALCH",
+    "name": "AlchemyDAO",
+    "contract": "0x0000a1c00009a619684135b824ba02f7fbf3a572",
+    "image": "https://cdn.coinranking.com/tkKQoiNEr/alchemypay.svg"
+}, {
+    "short": "ALCX",
+    "name": "Alchemix ",
+    "contract": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "image": "https://www.cryptofonts.com/img/icons/alcx.svg"
+}, {
+    "short": "ALPHA",
+    "name": "Alpha Venture",
+    "contract": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+    "image": "https://research.binance.com/static/images/projects/alpha-finance-lab/logo.png"
+}, {
+    "short": "AMP",
+    "name": "Amp",
+    "contract": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "image": "https://cryptologos.cc/logos/amp-amp-logo.svg"
+}, {
+    "short": "ANC",
+    "name": "Anchor Protocol",
+    "contract": "0x0f3adc247e91c3c50bc08721355a41037e89bc20",
+    "image": "https://www.cryptofonts.com/img/icons/anc.svg"
+}, {
+    "short": "ANKR",
+    "name": "Ankr",
+    "contract": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+    "image": "https://www.cryptofonts.com/img/icons/ankr.svg"
+}, {
+    "short": "Ape coin",
+    "name": "Ape",
+    "contract": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+    "image": "https://images.ctfassets.net/ohcexbfyr6py/6EO2vxiJawG1p5UCxaMsk4/8ffba3a27a6313fa42c32d4456a2fdee/CcfJAmaZMJTd14whr8YVD1kwKxYfTX2JO7Ukut208KwRHRjnNxXKdqGcObYIBR3fKaGGeadKuS6pJ-gY2wxfkmTzS-qvSTlf4TY1S0LlqcAQimCdcWyyqgfqdnlm-q-n?w=3840&q=100"
+}, {
+    "short": "APYS",
+    "name": "APYSwap",
+    "contract": "0xf7413489c474ca4399eee604716c72879eea3615",
+    "image": "https://apyswap.com/assets/img/logo.svg"
+}, {
+    "short": "ARES",
+    "name": "Ares Protocol",
+    "contract": "0x358aa737e033f34df7c54306960a38d09aabd523",
+    "image": "https://dmccdn.com/uploads/ares400x400.png"
+}, {
+    "short": "AUDIO",
+    "name": "Audius",
+    "contract": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "image": "https://builtonsolana.com/wp-content/uploads/2020/01/audius-review.jpeg"
+}, {
+    "short": "AWC",
+    "name": "Atomic Wallet Coin",
+    "contract": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
+    "image": "https://www.cryptofonts.com/img/icons/awc.svg"
+}, {
+    "short": "AXS",
+    "name": "Axis infinity",
+    "contract": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b",
+    "image": "https://cdn.vectorstock.com/i/1000x1000/13/80/axie-infinity-axs-token-symbol-vector-39141380.webp"
+}, {
+    "short": "BABL",
+    "name": "Babylon Finance",
+    "contract": "0xf4dc48d260c93ad6a96c5ce563e70ca578987c74",
+    "image": "https://www.babylon.finance/static/media/BablStar.403ba550.svg"
+}, {
+    "short": "BABYDOGE",
+    "name": "Baby Doge coin",
+    "contract": "0xac57de9c1a09fec648e93eb98875b212db0d460b",
+    "image": "https://cdn.benzinga.com/files/images/story/2012/babydogesite_1.png?optimize=medium&dpr=2&auto=webp&width=640"
+}, {
+    "short": "BAT",
+    "name": "Basic Attention",
+    "contract": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "image": "https://cdn.coinranking.com/SyX3N05JQ/bat.svg"
+}, {
+    "short": "BBANK",
+    "name": "BlockBank",
+    "contract": "0xf4b5470523ccd314c6b9da041076e7d79e0df267",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FBBANK.jpg?width=96"
+}, {
+    "short": "BEAN",
+    "name": "Bean",
+    "contract": "0xdc59ac4fefa32293a95889dc396682858d52e5db",
+    "image": "https://bean.money/logo.svg"
+}, {
+    "short": "BIT",
+    "name": "BitDao",
+    "contract": "0x1a4b46696b2bb4794eb3d4c26f1c55f9170fa4c5",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FBIT2.jpg?width=96"
+}, {
+    "short": "BONDLY",
+    "name": "Forj",
+    "contract": "0x91dfbee3965baaee32784c2d546b7a0c62f268c9",
+    "image": "https://www.cryptofonts.com/img/icons/bondly.svg"
+}, {
+    "short": "BOOST",
+    "name": "Boost",
+    "contract": "0x4e0fca55a6c3a94720ded91153a27f60e26b9aa8",
+    "image": "https://coindecimal.com/wp-content/uploads/2021/09/Where-to-Buy-Boost-Coin-Step-by-Step-Guide-to-Buy-Boost-Coin.jpg"
+}, {
+    "short": "BNT",
+    "name": "Bancor Network",
+    "contract": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "image": "https://www.cryptofonts.com/img/icons/bnt.svg"
+}, {
+    "short": "BPT",
+    "name": "BlackPool",
+    "contract": "0x0ec9f76202a7061eb9b3a7d6b59d36215a7e37da",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FBPT4.jpg?width=96"
+}, {
+    "short": "BRAINS",
+    "name": "Brainiac",
+    "contract": "0x39317b8a1ae06c30bb615d88cdc5522781499f1c",
+    "image": "https://brainiac.farm/brainslogo.png"
+}, {
+    "short": "BUMP",
+    "name": "Bumper",
+    "contract": "0x785c34312dfa6b74f6f1829f79ade39042222168",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FBUMP.jpg?width=96"
+}, {
+    "short": "BUSD",
+    "name": "Binance BUSD",
+    "contract": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "image": "https://cdn.coinranking.com/6SJHRfClq/busd.svg"
+}, {
+    "short": "BYN",
+    "name": "BeyondFi",
+    "contract": "0x4bb3205bf648b7f59ef90dee0f1b62f6116bc7ca",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FBYN2.jpg?width=96"
+}, {
+    "short": "CAPS",
+    "name": "Ternoa",
+    "contract": "0x03be5c903c727ee2c8c4e9bc0acc860cca4715e2",
+    "image": "https://www.ternoa.com/static/images/home/Ternoa-logo.svg"
+}, {
+    "short": "CBAT",
+    "name": "cBAT",
+    "contract": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "image": "https://www.cryptofonts.com/img/icons/cbat.svg"
+}, {
+    "short": "CDAI",
+    "name": "cDAI",
+    "contract": "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643",
+    "image": "https://cdn.coinranking.com/aZPPc1MqR/cDAI.svg"
+}, {
+    "short": "CETH",
+    "name": "cETH",
+    "contract": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "image": "https://cdn.coinranking.com/ZTQUl5jrQ/CETH2.svg"
+}, {
+    "short": "CHADS",
+    "name": "CHADS VC",
+    "contract": "0x69692d3345010a207b759a7d1af6fc7f38b35c5e",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FCHADS.jpeg?width=96"
+}, {
+    "short": "COLD",
+    "name": "Coldbank",
+    "contract": "0xf49f43c1e8b0c8ac13e63ec7921692a199029d49",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FCOLD3.png?width=96"
+}, {
+    "short": "COMP",
+    "name": "Compound",
+    "contract": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "image": "https://cdn.coinranking.com/2es4I0GGs/compound-icon.svg"
+}, {
+    "short": "COSM",
+    "name": "Cosmo Coin",
+    "contract": "0xd1e10c37a27d95d95720291b1dc6f12f74c71443",
+    "image": "https://www.cryptofonts.com/img/icons/cosm.svg"
+}, {
+    "short": "COV",
+    "name": "Covesting",
+    "contract": "0xada86b1b313d1d5267e3fc0bb303f0a2b66d0ea7",
+    "image": "https://cdn.coinranking.com/B1mjk-swf/cov.svg"
+}, {
+    "short": "CRO",
+    "name": "Cronos",
+    "contract": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b",
+    "image": "https://cdn.coinranking.com/2o91jm73M/cro.svg"
+}, {
+    "short": "CRU",
+    "name": "Crust Network",
+    "contract": "0x32a7c02e79c4ea1008dd6564b35f131428673c41",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FCRU3.jpg?width=96"
+}, {
+    "short": "CRV",
+    "name": "Curve Dao",
+    "contract": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+    "image": "https://www.cryptofonts.com/img/icons/crv.svg"
+}, {
+    "short": "CSP",
+    "name": "Caspian",
+    "contract": "0xa6446d655a0c34bc4f05042ee88170d056cbaf45",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FCSP.png?width=96"
+}, {
+    "short": "cUSDC",
+    "name": "CUSDC",
+    "contract": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "image": "https://cdn.coinranking.com/yU5-9AWUP/CUSDC.svg"
+}, {
+    "short": "CUSDT",
+    "name": "cUSDT",
+    "contract": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "image": "https://cdn.coinranking.com/yU5-9AWUP/CUSDC.svg"
+}, {
+    "short": "CVX",
+    "name": "Convex Finance",
+    "contract": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+    "image": "https://www.cryptofonts.com/img/icons/cvx.svg"
+}, {
+    "short": "DAI",
+    "name": "Dai",
+    "contract": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "image": "https://www.cryptofonts.com/img/icons/dai.svg"
+}, {
+    "short": "DECR",
+    "name": "Decentr",
+    "contract": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FDECENTR.jpg?width=96"
+}, {
+    "short": "DFYN",
+    "name": "Defy Network",
+    "contract": "0x9695e0114e12c0d3a3636fab5a18e6b737529023",
+    "image": "https://raw.githubusercontent.com/dappradar/tokens/main/polygon/0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97/logo.png"
+}, {
+    "short": "DHV",
+    "name": "DeHive",
+    "contract": "0x62dc4817588d53a056cbbd18231d91ffccd34b2a",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FDHV.png?width=96"
+}, {
+    "short": "DINGER",
+    "name": "Dinger",
+    "contract": "0x9e5bd9d9fad182ff0a93ba8085b664bcab00fa68",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FDINGER.jpg?width=96"
+}, {
+    "short": "DODO",
+    "name": "DODO",
+    "contract": "0x43dfc4159d86f3a37a5a4b3d4580b888ad7d4ddd",
+    "image": "https://www.cryptofonts.com/img/icons/dodo.svg"
+}, {
+    "short": "ELON",
+    "name": "Dogelon Mars",
+    "contract": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+    "image": "https://nomics.com/imgpr/https%3A%2F%2Fs3.us-east-2.amazonaws.com%2Fnomics-api%2Fstatic%2Fimages%2Fcurrencies%2FELON.jpg?width=96"
+}, {
+    "short": "ENJ",
+    "name": "Enjin Coin",
+    "contract": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "image": "https://www.cryptofonts.com/img/icons/enj.svg"
+}, {
+    "short": "ENS",
+    "name": "Ethereum Name Service",
+    "contract": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+    "image": "https://cryptologos.cc/logos/ethereum-name-service-ens-logo.svg"
+}, {
+    "short": "ERN",
+    "name": "Ethernity Chain",
+    "contract": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+    "image": "https://www.cryptofonts.com/img/icons/ern.svg"
+}, {
+    "short": "FANV",
+    "name": "FanVerse",
+    "contract": "0x43835ca7646c07b6933d0c1c16ddc41c4cb5600e",
+    "image": "https://fanversecoin.io/images/peoples.svg"
+}, {
+    "short": "FEI",
+    "name": "Fei USD",
+    "contract": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+    "image": "https://www.cryptofonts.com/img/icons/fei.svg"
+}, {
+    "short": "FLOKI",
+    "name": "Floki Inu",
+    "contract": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+    "image": "https://www.floki.com/images/floki-logo.svg"
+}, {
+    "short": "FRAX",
+    "name": "frax",
+    "contract": "0x853d955acef822db058eb8505911ed77f175b99e",
+    "image": "https://www.cryptofonts.com/img/icons/frax.svg"
+}, {
+    "short": "FTM",
+    "name": "Fantom",
+    "contract": "0x4e15361fd6b4bb609fa63c81a2be19d873717870",
+    "image": "https://www.cryptofonts.com/img/icons/ftm.svg"
+}, {
+    "short": "FTT",
+    "name": "FTX",
+    "contract": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9",
+    "image": "https://www.cryptofonts.com/img/icons/ftt.svg"
+}, {
+    "short": "GALA",
+    "name": "Gala",
+    "contract": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da",
+    "image": "https://www.cryptofonts.com/img/icons/gala.svg"
+}, {
+    "short": "GLM",
+    "name": "Golem",
+    "contract": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+    "image": "https://cryptologos.cc/logos/golem-network-tokens-glm-logo.svg"
+}, {
+    "short": "GNO",
+    "name": "Gnosis",
+    "contract": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "image": "https://www.cryptofonts.com/img/icons/gno.svg"
+}, {
+    "short": "GRT",
+    "name": "The Graph",
+    "contract": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "image": "https://www.cryptofonts.com/img/icons/grt.svg"
+}, {
+    "short": "GSWAP",
+    "name": "Gameswap",
+    "contract": "0xaac41ec512808d64625576eddd580e7ea40ef8b2",
+    "image": "https://www.cryptofonts.com/img/icons/gswap.svg"
+}, {
+    "short": "GT",
+    "name": "Gate",
+    "contract": "0xe66747a101bff2dba3697199dcce5b743b454759",
+    "image": "https://www.cryptofonts.com/img/icons/gt.svg"
+}, {
+    "short": "HOKK",
+    "name": "Hokkaido inu",
+    "contract": "0xe87e15b9c7d989474cb6d8c56b3db4efad5b21e8",
+    "image": "https://www.coinlore.com/img/hokkaidu-inu.webp"
+}, {
+    "short": "HT",
+    "name": "Huobi HT",
+    "contract": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+    "image": "https://www.cryptofonts.com/img/icons/ht.svg"
+}, {
+    "short": "HUSD",
+    "name": "HUSD",
+    "contract": "0xdf574c24545e5ffecb9a659c229253d4111d87e1",
+    "image": "https://www.cryptofonts.com/img/icons/husd.svg"
+}, {
+    "short": "IDA",
+    "name": "Instadapp DAI",
+    "contract": "0x40a9d39aa50871df092538c5999b107f34409061",
+    "image": "https://www.cryptofonts.com/img/icons/idai.svg"
+}, {
+    "short": "IETH",
+    "name": "Instadapp ETH",
+    "contract": "0xc383a3833a87009fd9597f8184979af5edfad019",
+    "image": "https://www.cryptofonts.com/img/icons/ieth.svg"
+}, {
+    "short": "IUSDC",
+    "name": "Instadapp USDC",
+    "contract": "0xc8871267e07408b89aa5aecc58adca5e574557f8",
+    "image": "https://www.cryptofonts.com/img/icons/iusdc.svg"
+}, {
+    "short": "IWBTC",
+    "name": "Instadapp WBTC",
+    "contract": "0xec363faa5c4dd0e51f3d9b5d0101263760e7cdeb",
+    "image": "https://www.cryptofonts.com/img/icons/iwbtc.svg"
+}, {
+    "short": "KLEE",
+    "name": "KleeKai",
+    "contract": "0xa67e9f021b9d208f7e3365b2a155e3c55b27de71",
+    "image": "https://s2.coinmarketcap.com/static/img/coins/64x64/10262.png"
+}, {
+    "short": "LDO",
+    "name": "Lido DAO",
+    "contract": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "image": "https://www.cryptofonts.com/img/icons/ldo.svg"
+}, {
+    "short": "LEND",
+    "name": "Aave (OLD)",
+    "contract": "0x80fb784b7ed66730e8b1dbd9820afd29931aab03",
+    "image": "https://www.cryptofonts.com/img/icons/lend.svg"
+}, {
+    "short": "LEO",
+    "name": "Leo token",
+    "contract": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "image": "https://www.cryptofonts.com/img/icons/leo.svg"
+}, {
+    "short": "LINA",
+    "name": "Linear",
+    "contract": "0x3e9bc21c9b189c09df3ef1b824798658d5011937",
+    "image": "https://buildr.linear.finance/_nuxt/img/linear_buildr_logo_dark.c2b34bd.svg"
+}, {
+    "short": "LOOKS",
+    "name": "LooksRare",
+    "contract": "0xf4d2888d29d722226fafa5d9b24f9164c092421e",
+    "image": "https://www.cryptofonts.com/img/icons/looks.svg"
+}, {
+    "short": "LPT",
+    "name": "Livepeer",
+    "contract": "0x58b6a8a3302369daec383334672404ee733ab239",
+    "image": "https://www.cryptofonts.com/img/icons/lpt.svg"
+}, {
+    "short": "LQTY",
+    "name": "Liquity",
+    "contract": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+    "image": "https://www.cryptofonts.com/img/icons/lqty.svg"
+}, {
+    "short": "LTO",
+    "name": "LTO Network ",
+    "contract": "0xd01409314acb3b245cea9500ece3f6fd4d70ea30",
+    "image": "https://www.cryptofonts.com/img/icons/lto.svg"
+}, {
+    "short": "MAHA",
+    "name": "MahaDAO",
+    "contract": "0xb4d930279552397bba2ee473229f89ec245bc365",
+    "image": "https://www.cryptofonts.com/img/icons/maha.svg"
+}, {
+    "short": "MANA",
+    "name": "Decentraland",
+    "contract": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942",
+    "image": "https://www.cryptofonts.com/img/icons/mana.svg"
+}, {
+    "short": "MCDOGE",
+    "name": "McDoge",
+    "contract": "0x5fdfe5ee55ae0fb7e0dba3481ea46f22fc92cbbb",
+    "image": "https://mcdogeth.com/images/telegram-cloud-photo-size-4-6016949071312435612-y-1.svg"
+}, {
+    "short": "MIM",
+    "name": "Magic Internet Money",
+    "contract": "0x99d8a9c45b2eca8864373a26d1459e3dff1e17f3",
+    "image": "https://www.cryptofonts.com/img/icons/mim.svg"
+}, {
+    "short": "MIR",
+    "name": "Mirror Protocol",
+    "contract": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+    "image": "https://www.cryptofonts.com/img/icons/mir.svg"
+}, {
+    "short": "MKR",
+    "name": "Maker",
+    "contract": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "image": "https://www.cryptofonts.com/img/icons/mkr.svg"
+}, {
+    "short": "MONONOKE-INU",
+    "name": "Mononoke Inu",
+    "contract": "0x4da08a1bff50be96bded5c7019227164b49c2bfc",
+    "image": "https://static.wixstatic.com/media/651c62_d82a163de06e44978b5abe13418aecb1~mv2.png/v1/fill/w_1118,h_1118,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/mononoke.png"
+}, {
+    "short": "OGN",
+    "name": "Origin Protocol",
+    "contract": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "image": "https://www.cryptofonts.com/img/icons/ogn.svg"
+}, {
+    "short": "OHM",
+    "name": "Olympus",
+    "contract": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "image": "https://www.cryptofonts.com/img/icons/ohm.svg"
+}, {
+    "short": "OMG",
+    "name": "OMG Network",
+    "contract": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "image": "https://www.cryptofonts.com/img/icons/omg.svg"
+}, {
+    "short": "PARA",
+    "name": "ParaToken (OLD)",
+    "contract": "0x32879b5c0fdbc2a81597f019717b412b9d755a09",
+    "image": "https://www.coinlore.com/img/hokkaidu-inu.webp"
+}, {
+    "short": "PARA",
+    "name": "Para",
+    "contract": "0xfb13dfc9f8f3eeddd7c9b581d0d7cf367513ff7c",
+    "image": "https://www.coinlore.com/img/hokkaidu-inu.webp"
+}, {
+    "short": "POLY",
+    "name": "Polymath",
+    "contract": "0x9992ec3cf6a55b00978cddf2b27bc6882d88d1ec",
+    "image": "https://www.cryptofonts.com/img/icons/poly.svg"
+}, {
+    "short": "QNT",
+    "name": "Quant",
+    "contract": "0x4a220e6096b25eadb88358cb44068a3248254675",
+    "image": "https://www.cryptofonts.com/img/icons/qnt.svg"
+}, {
+    "short": "RARI",
+    "name": "Variable",
+    "contract": "0xfca59cd816ab1ead66534d82bc21e7515ce441cf",
+    "image": "https://www.cryptofonts.com/img/icons/rari.svg"
+}, {
+    "short": "RUNE",
+    "name": "THORChain",
+    "contract": "0x3155ba85d5f96b2d030a4966af206230e46849cb",
+    "image": "https://www.cryptofonts.com/img/icons/rune.svg"
+}, {
+    "short": "RSR",
+    "name": "Reserve Rights",
+    "contract": "0x320623b8e4ff03373931769a31fc52a4e78b5d70",
+    "image": "https://www.cryptofonts.com/img/icons/rsr.svg"
+}, {
+    "short": "SAITAMA",
+    "name": "Saitama Inu",
+    "contract": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+    "image": "https://cdn.mos.cms.futurecdn.net/CVnKjbjV7e3EARLAskY6kY-1024-80.jpg.webp"
+}, {
+    "short": "SANSHU",
+    "name": "Sanshu Inu",
+    "contract": "0xc73c167e7a4ba109e4052f70d5466d0c312a344d",
+    "image": "https://sanshuinufinance.com/img/sanshu-logo.svg"
+}, {
+    "short": "SDAO",
+    "name": "SingularityDAO",
+    "contract": "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+    "image": "https://www.cryptofonts.com/img/icons/agi.svg"
+}, {
+    "short": "SHIB",
+    "name": "Shiba inu",
+    "contract": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "image": "https://www.cryptofonts.com/img/icons/shib.svg"
+}, {
+    "short": "SNX",
+    "name": "Synthetic Network",
+    "contract": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "image": "https://www.cryptofonts.com/img/icons/snx.svg"
+}, {
+    "short": "SHR",
+    "name": "Share",
+    "contract": "0xd98f75b1a3261dab9eed4956c93f33749027a964",
+    "image": "https://www.cryptofonts.com/img/icons/shr.svg"
+}, {
+    "short": "WSCRT",
+    "name": "Secret",
+    "contract": "0x2b89bf8ba858cd2fcee1fada378d5cd6936968be",
+    "image": "https://www.cryptofonts.com/img/icons/scrt.svg"
+}, {
+    "short": "SAI",
+    "name": "Sai",
+    "contract": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "image": "https://www.cryptofonts.com/img/icons/sai.svg"
+}, {
+    "short": "SUSD",
+    "name": "sUSD",
+    "contract": "0x57ab1ec28d129707052df4df418d58a2d46d5f51",
+    "image": "https://www.cryptofonts.com/img/icons/isusd.svg"
+}, {
+    "short": "STETH",
+    "name": "Lido Staked Ether",
+    "contract": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "image": "https://www.cryptofonts.com/img/icons/steth.svg"
+}, {
+    "short": "STNVT",
+    "name": "Sentivate",
+    "contract": "0x7865af71cf0b288b4e7f654f4f7851eb46a2b7f8",
+    "image": "https://sentivate.com/wp-content/uploads/brizy/imgs/logo-980x998x0x2x980x994x1552537896.png"
+}, {
+    "short": "STMX",
+    "name": "StormX",
+    "contract": "0xbe9375c6a420d2eeb258962efb95551a5b722803",
+    "image": "https://www.cryptofonts.com/img/icons/stmx.svg"
+}, {
+    "short": "STORJ",
+    "name": "Storj",
+    "contract": "0xb64ef51c888972c908cfacf59b47c1afbc0ab8ac",
+    "image": "https://www.cryptofonts.com/img/icons/storj.svg"
+}, {
+    "short": "STRNGR",
+    "name": "Stronger ",
+    "contract": "0xdc0327d50e6c73db2f8117760592c8bbf1cdcf38",
+    "image": "https://cryptologos.cc/logos/strong-strong-logo.svg"
+}, {
+    "short": "STRONG",
+    "name": "Strong",
+    "contract": "0x990f341946a3fdb507ae7e52d17851b87168017c",
+    "image": "https://cryptologos.cc/logos/strong-strong-logo.svg"
+}, {
+    "short": "SUPER",
+    "name": "SuperFarm",
+    "contract": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+    "image": "https://www.cryptofonts.com/img/icons/super.svg"
+}, {
+    "short": "SUSHI",
+    "name": "Sushi",
+    "contract": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "image": "https://www.cryptofonts.com/img/icons/sushi.svg"
+}, {
+    "short": "The Sandbox",
+    "name": "Sand",
+    "contract": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+    "image": "https://www.cryptofonts.com/img/icons/sand.svg"
+}, {
+    "short": "TORN",
+    "name": "Tornado Cash",
+    "contract": "0x77777feddddffc19ff86db637967013e6c6a116c",
+    "image": "https://www.cryptofonts.com/img/icons/torn.svg"
+}, {
+    "short": "TRIBE",
+    "name": "Tribe",
+    "contract": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "image": "https://www.cryptofonts.com/img/icons/tribe.svg"
+}, {
+    "short": "TRU",
+    "name": "TrueFi",
+    "contract": "0x4c19596f5aaff459fa38b0f7ed92f11ae6543784",
+    "image": "https://www.cryptofonts.com/img/icons/tru.svg"
+}, {
+    "short": "UBT",
+    "name": "Unibright",
+    "contract": "0x8400d94a5cb0fa0d041a3788e395285d61c9ee5e",
+    "image": "https://www.cryptofonts.com/img/icons/ubt.svg"
+}, {
+    "short": "UNI",
+    "name": "Uniswap",
+    "contract": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "image": "https://www.cryptofonts.com/img/icons/uni.svg"
+}, {
+    "short": "USDC",
+    "name": "USD Coin",
+    "contract": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "image": "https://www.cryptofonts.com/img/icons/usdc.svg"
+}, {
+    "short": "USDD",
+    "name": "USDD",
+    "contract": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "image": "https://cdn.benzinga.com/files/images/story/2022/06/05/usdd_tron.jpg?optimize=medium&dpr=2&auto=webp&width=640"
+}, {
+    "short": "USDP",
+    "name": "Pax dollar",
+    "contract": "0x8e870d67f660d95d5be530380d0ec0bd388289e1",
+    "image": "https://www.cryptofonts.com/img/icons/usdp.svg"
+}, {
+    "short": "USDT",
+    "name": "Tether",
+    "contract": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "image": "https://www.cryptofonts.com/img/icons/usdt.svg"
+}, {
+    "short": "VOLT",
+    "name": "Volt Inu",
+    "contract": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+    "image": "https://voltinu.in/images/Volt-Inu-Logo.png"
+}, {
+    "short": "VOLT",
+    "name": "Volt Inu (OLD)",
+    "contract": "0x3f7aff0ef20aa2e646290dfa4e67611b2220c597",
+    "image": "https://cryptoadventure.com/wp-content/uploads/2022/02/Votinu-White-text.svg"
+}, {
+    "short": "VSP",
+    "name": "Vesper Finance",
+    "contract": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421",
+    "image": "https://www.cryptofonts.com/img/icons/vsp.svg"
+}, {
+    "short": "WBNB",
+    "name": "Wrapped bnb",
+    "contract": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "image": "https://www.cryptofonts.com/img/icons/bnb.svg"
+}, {
+    "short": "WBTC",
+    "name": "Wrapped btc",
+    "contract": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "image": "https://www.cryptofonts.com/img/icons/wbtc.svg"
+}, {
+    "short": "WETH",
+    "name": "Wrapped ethereum",
+    "contract": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "image": "https://cdn.coinranking.com/KIviQyZlt/weth.svg"
+}, {
+    "short": "WMATIC",
+    "name": "Wrapped matic",
+    "contract": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+    "image": "https://www.cryptofonts.com/img/icons/matic.svg"
+}, {
+    "short": "WOLVERINU",
+    "name": "Wolver Inu",
+    "contract": "0xca7b3ba66556c4da2e2a9afef9c64f909a59430a",
+    "image": "https://global-uploads.webflow.com/6191e507f3028a2aa81f9749/61dab03c049b709ab75bdf90_Mini_Wolverinu_Red-PNG-transparent%201.svg"
+}, {
+    "short": "XDAI",
+    "name": "XDAI Stake",
+    "contract": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
+    "image": "https://www.cryptofonts.com/img/icons/stake.svg"
+}, {
+    "short": "YFI",
+    "name": "yearn.finance",
+    "contract": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+    "image": "https://www.cryptofonts.com/img/icons/yfi.svg"
+}, {
+    "short": "ZRX",
+    "name": "0x",
+    "contract": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "image": "https://www.cryptofonts.com/img/icons/zrx.svg"
+}]
